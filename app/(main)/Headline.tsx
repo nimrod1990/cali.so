@@ -80,10 +80,10 @@ export function Headline() {
         }}
       >
         <Balancer>
-          我是 Cali，
-          <PeekabooLink href="https://zolplay.com">佐玩</PeekabooLink>
-          创始人，目前带领着佐玩致力于创造一个充满创造力的工作环境，同时鼓励团队创造影响世界的产品。
-          我热爱开发，设计，创新，享受生活，以及在未知领域中探索。
+          我是 张小刀，
+          <PeekabooLink href="https://hongyishi.com">红医师</PeekabooLink>
+          创始人，目前独立开发红医师项目，目标是提供基层医疗保障的一站式解决方案，实现真正的现代化。
+          我热爱开发，创新，热爱医学事业，以及在通往AGI的路上探索。
         </Balancer>
       </motion.p>
       <motion.div
